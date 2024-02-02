@@ -8,6 +8,6 @@
   
 
 
-I'm a software developer who is passionate about creating technology to elevate people . Some technologies I enjoy working with include Javascript, Reactjs , Bootstrap .
+I am a self-taught web developer with an eagerness to learn and grow. I have a strong foundation in HTML, CSS, and the basics of JavaScript. I am passionate about creating beautiful, functional websites and applications that are intuitive and user-friendly. I am constantly striving to stay up-to-date with the latest technologies and trends in web development. My goal is to become an expert web developer, so I can create innovative solutions that meet the needs of my clients.
 
-- 💬 Ask me about **JavaScript and Frontend**
+- 💬 Ask me about **JavaScript, HTML, CSS and Frontend**
